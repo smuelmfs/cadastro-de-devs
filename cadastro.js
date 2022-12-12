@@ -66,7 +66,7 @@ tecName.addEventListener('click', function (ev) {
 
 
 
-//Não entendi muito bem!
+//
 form.addEventListener('submit', function (ev) {
   ev.preventDefault()
 
